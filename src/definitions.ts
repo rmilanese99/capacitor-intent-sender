@@ -1,9 +1,9 @@
 export interface IntentSenderPlugin {
 
     /**
-     * Launch a new Activity
+     * Launch a new activity
      *
-     * @param intent The description of the Activity to start
+     * @param intent The description of the activity to start
      */
     startActivity(intent: Intent): Promise<void>;
 }
@@ -44,7 +44,7 @@ export interface Intent {
     extras?: { [key: string]: unknown };
 
     /**
-     * Special flags controlling how the Intent is handled
+     * Special flags controlling how the intent is handled
      */
     flags?: number;
 }

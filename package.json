@@ -1,7 +1,7 @@
 {
   "name": "capacitor-intent-sender",
   "version": "0.0.1",
-  "description": "Plugin to send Android Intents from Capacitor apps",
+  "description": "Plugin to send Android intents from Capacitor apps",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
