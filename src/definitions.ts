@@ -1,4 +1,11 @@
 export interface IntentSenderPlugin {
+
+    /**
+     * Launch a new Activity
+     *
+     * @param intent The description of the Activity to start
+     */
+    startActivity(intent: Intent): Promise<void>;
 }
 
 export interface Intent {
