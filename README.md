@@ -2,6 +2,11 @@
 
 Plugin to send Android intents from Capacitor apps
 
+### Supported versions
+
+- `1.1.0` version only supports Capacitor 5
+- `1.0.x` versions only support Capacitor 4
+
 ## Install
 
 ```bash
