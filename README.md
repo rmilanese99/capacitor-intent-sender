@@ -4,8 +4,11 @@ Plugin to send Android intents from Capacitor apps
 
 ### Supported versions
 
-- `1.1.0` version only supports Capacitor 5
-- `1.0.x` versions only support Capacitor 4
+| Plugin Version | Capacitor Version | Maintained |
+|----------------|-------------------|------------|
+| 6.0.0          | 6.\*.*            | ✅          |
+| 1.1.0          | 5.\*.*            | ❌          |
+| 1.0.*          | 4.\*.*            | ❌          |
 
 ## Install
 
