@@ -6,7 +6,7 @@ Plugin to send Android intents from Capacitor apps
 
 | Plugin Version | Capacitor Version | Maintained |
 |----------------|-------------------|------------|
-| 6.0.0          | 6.\*.*            | ✅          |
+| 6.0.*          | 6.\*.*            | ✅          |
 | 1.1.0          | 5.\*.*            | ❌          |
 | 1.0.*          | 4.\*.*            | ❌          |
 
